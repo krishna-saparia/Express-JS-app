@@ -1,0 +1,19 @@
+{
+  "name": "lecture-3",
+  "version": "1.0.0",
+  "description": "First express JS project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishna-saparia/Express-JS-Project.git"
+  },
+  "author": "krishna-saparia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krishna-saparia/Express-JS-Project/issues"
+  },
+  "homepage": "https://github.com/krishna-saparia/Express-JS-Project#readme"
+}
