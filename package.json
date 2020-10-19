@@ -4,16 +4,19 @@
   "description": "First express JS project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/krishna-saparia/Express-JS-Project.git"
+    "url": "git+https://github.com/krishna-saparia/Express-JS-app.git"
   },
   "author": "krishna-saparia",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/krishna-saparia/Express-JS-Project/issues"
+    "url": "https://github.com/krishna-saparia/Express-JS-app/issues"
   },
-  "homepage": "https://github.com/krishna-saparia/Express-JS-Project#readme"
+  "homepage": "https://github.com/krishna-saparia/Express-JS-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
